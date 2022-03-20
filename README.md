@@ -1,4 +1,4 @@
-# LockedMe-VirtualKey-Phase1-
+# LockedMe-VirtualKey-Phase1
 
 DESCRIPTION
 
